@@ -1,0 +1,9 @@
+[{
+    image: "my-course",
+    title: "My course title",
+    price: "img.jpg"
+  },{
+    image: "my-course-2",
+    title: "ADRIAN PRODUCT",
+    price: "img.jpg"
+  }]
